@@ -1,0 +1,10 @@
+site_name: Celebane's Documentation Repo
+site_url: https://celebane.github.io
+repo_url: https://github.com/celebane/celebane.github.io
+site_description: Documentation for Github Repos
+site_author: Teddy Goldy
+remote_branch: main
+nav:
+  - Home: index.md
+  - DnD Dice Roller: Roll/index.md
+theme: readthedocs
